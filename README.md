@@ -22,3 +22,13 @@ You can click the Preview link to take a look at your changes.
   I'm Higor Eduardo
   <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
 </h1>
+
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/bhigoreduardo/" rel="nofollow">
+    <img data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>&nbsp;&nbsp;
+  
+  <a href="bhigoreduardo@gmail.com/" rel="nofollow">
+    <img data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">        
+  </a>&nbsp;&nbsp;
+</p>
